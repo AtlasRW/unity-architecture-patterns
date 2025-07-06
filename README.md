@@ -35,10 +35,9 @@ This pattern is central to Unity's design philosophy, emphasizing modularity and
 ### Scriptable Object
 This is Unity's new Paradigm pattern. It's desgined to work similarly to the GameObject Component Pattern, but leans of an extended use of Scriptable Objects to provide better Dependency Management compared to traditional methods.
 
+[ScriptableObject Pattern Blog Post](https://medium.com/@simon.nordon/unity-architecture-scriptable-object-pattern-0a6c25b2d741/)
 
-[ScriptableObject Pattern Blog Post](https://medium.com/@simon.nordon/unity-architecture-gameobject-component-pattern-34a76a9eacfb/)
-
-[Play the game made with the ScriptableObject Pattern!](https://medium.com/@simon.nordon/unity-architecture-scriptable-object-pattern-0a6c25b2d741)
+[Play the game made with the ScriptableObject Pattern!](https://simonnordon4.github.io/unity-architecture-patterns/Builds/ScriptableObjectPattern/)
 
 ### DOTS ECS
 Planned
